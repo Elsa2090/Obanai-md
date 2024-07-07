@@ -20,8 +20,8 @@
 </div>
 
 ✦𝗢𝗕𝗔𝗡𝗔𝗜 𝗕𝗢𝗧 𝗠𝗗✦
-Devi is a whatsapp bot created with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) and written in javascript(ES6), and this is my first open source project, if there is a mistake feel free to open a issues.
-
+Obanai is a whatsapp snake bot created with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) and written in javascript(ES6), and this is my third open source project, if there is a mistake feel free to open a issues.
+<img src="https://telegra.ph/file/fb2f91c92dac4dae14b5d.jpg" width="300" height="200" border="0" alt="PFP">
 
 **NOTE:** I can't guarantee you will not be blocked by using this code, although it has worked for me. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.
 
@@ -29,34 +29,97 @@ Devi is a whatsapp bot created with [@whiskeysockets/baileys](https://github.com
 - [node.js](https://nodejs.org/en/download/) v18 LTS
 - [MongoDB](https://www.mongodb.com/)
 
-### **Installation**
-Clone this project
+- 
+<p align="left">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Elsa2090/Obanai-md" />
+  </a>
+  
+  
 
-```bash
-> git clone https://github.com/Debanjan-San/WhatsApp-Bot-Devi.git
-> cd WhatsApp-Bot-Devi
-```
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Elsa2090}/count.svg" alt="Elsa2090 :: Visitor's Count" /></p>
+<p align="center">
+ <a href="https://chat.whatsapp.com/JVWVyk3IgsbIgdsZr03sT2" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ OBANAI-BOT Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+  </a>
+</p>
 
-Installing the dependencies (**make sure you're in the project directory that you've just cloned**):
+---
+***Scan QR Code***
 
-```bash
-> npm i
-```
-### **Setup & Using the bot**
-1. Create `.env` and fill out the `MONGO` (For example you can see `.env.example`)
-2. Run the code
-```bash
-> npm start
-```
-3. Open http://localhost:3000/ on your host browser and scan the **QRcode** with your **WhatsApp app** (or you can set the `printQRInTerminal: false` on `index.js` to scan the **QRcode** on the terminal)
-4. Start using the bot by sending `#help` to the host/bot account (to change the prefix change it at `getConfig.js`)
+1. ***Get [SESSION-ID](https://bryant-tech-bot-6caf875ac89b.herokuapp.com) by pairing code. `Whatapp>Three dots>Linked Devices****
+2. . ***GET [PAIR CODE](https://bryant-tech-bot-6caf875ac89b.herokuapp.com)***
+--- 
+ ***Fork Repo***
+2. ***Click [FORK](https://github.com/Elsa2090/Obanai-md/fork)***
+ 
+---
 
-### H**ow to contribute**
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am "Add some feature"`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request
+JOIN THE GROUP TO GET MONGODB URI WHICH WILL HELP YOU TO RUN THE BOT
+[GROUP](https://chat.whatsapp.com/JVWVyk3IgsbIgdsZr03sT2)
 
-### **Join our support group**
-* Support guild link [Arus](https://chat.whatsapp.com/JCCZPbPUbM1536n62zSFZi)
+---
+
+ ✦𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨✦
+  【𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗】
+
+ 
+<h4 align="left"> Deploy on Heroku
+</h4>
+
+</p>
+
+<p align="left" >
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Elsa2090/Obanai-md">
+    <img src="https://telegra.ph/file/873a73bb44e63d9598fa8.png" width="100px" alt="Deploy to Heroku" >
+    </a>
+
+</p> 
+
+<br>
+   
+
+
+----
+
+👨‍💻 𝗢𝗕𝗔𝗡𝗔𝗜 𝗠𝗗 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗥𝗦 👨‍💻
+  
+| [Bryanttech](https://github.com/Elsa2090) |
+| Owner, Developer, Maintainer, updates|
+
+| [JAWAT](https://github.com/Lazack28) |
+| maintainer and helpers|
+
+
+---
+<a href="[https://github.com/Elsa2090.png]"><img src="https://github.com/Elsa2090.png" width="200" height="200" alt="Ash"/></a>
+ </div>
+<br>
+<h4 align="left">
+
+---
+
+  </br> 
+<h4 align="left">
+##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
+    
+ ***Tap On Logo To Contat Me***
+ <p align="left">
+  <a href="Bryantxtech@gmail.com">
+    <img src="https://telegra.ph/file/84284eaa31d60db5f2d6c.jpg" align="centre" width="90" />
+   <a href="https://wa.me/233530729233?text=Hi%20Bryant%20Tech%20Sir...%20I%20need%20some%20help%20in%20Itachi Bot">
+    <img src="https://telegra.ph/file/aa1fd064edcf7c32cf42d.png" align="centre" width="90" />
+
+
+<p align="left">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/JVWVyk3IgsbIgdsZr03sT2" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
+
+</br>
+
+【𝗜𝗧𝗔𝗖𝗛𝗜_𝗠𝗗-𝗩𝟮 𝗜𝗦 𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡】
+
