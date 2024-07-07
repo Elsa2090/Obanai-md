@@ -1,6 +1,9 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=OBANAI+BOT+MD;A+WHATSAPP+BOT+CREATED+BY;BRYANT+TECH+AND+JAWAT+TECH;THANKS+TO+JEFLEX+OG" alt="Typing SVG" /></a>
+  </p>
+<div align="center">
 <div align="center">
   
-  <img src="https://i.imgur.com/22WppSh.jpg" width="300" height="200" border="0" alt="PFP">
+  <img src="https://telegra.ph/file/85951a0c20a65f84d6618.jpg" width="300" height="200" border="0" alt="PFP">
   <p>Don't forget to click ⭐️ and fork this repository</p>
 
 **This whatsapp bot project use**
@@ -11,12 +14,12 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207)](https://repl.it/github/Debanjan-San/WhatsApp-Bot-Devi)
+[![Deploy](https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207)](https://repl.it/github/Elsa2090/Obanai-md)
 
-[![Deploy](https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098)](https://heroku.com/deploy?template=https://github.com/Debanjan-San/WhatsApp-Bot-Devi)
+[![Deploy](https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098)](https://heroku.com/deploy?template=https://github.com/Elsa2090/Obanai-md)
 </div>
 
-# Devi Bot
+✦𝗢𝗕𝗔𝗡𝗔𝗜 𝗕𝗢𝗧 𝗠𝗗✦
 Devi is a whatsapp bot created with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) and written in javascript(ES6), and this is my first open source project, if there is a mistake feel free to open a issues.
 
 
