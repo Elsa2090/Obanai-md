@@ -48,8 +48,10 @@ Obanai is a whatsapp snake bot created with [@whiskeysockets/baileys](https://gi
 ---
 ***Scan QR Code***
 
-1. ***Get [SESSION-ID](https://bryant-tech-bot-6caf875ac89b.herokuapp.com) by pairing code. `Whatapp>Three dots>Linked Devices****
-2. . ***GET [PAIR CODE](https://bryant-tech-bot-6caf875ac89b.herokuapp.com)***
+1. ***Get [SESSION-ID](https://dff78836-9b94-4ff6-8693-eba24a347f4f-00-1wk3hb32f6idh.worf.replit.dev/) by pairing code. `USE THE SECOND ONE INCASE THE FIRST ON GOES OFFLINE****
+3. . ***GET [PAIR CODE](https://replit.com/@arcanedream77/Obanai-botmd)***
+
+4. 𝙄𝙉𝘾𝘼𝙎𝙀 𝙊𝙁 𝘼𝙉𝙔 𝙀𝙍𝙍𝙊𝙍 𝘾𝙊𝙉𝙏𝘼𝘾𝙏(233530729233)
 --- 
  ***Fork Repo***
 2. ***Click [FORK](https://github.com/Elsa2090/Obanai-md/fork)***
