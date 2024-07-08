@@ -40,7 +40,7 @@ export default class Command extends BaseCommand {
             // Adding evil emoji reaction
             await M.react('😈');
 
-            text += `🗒️ *Note:* To summon more information about a command, use ${this.client.config.prefix}help <cmd_name>. Example: *${this.client.config.prefix}help info*\n\n*> ©️𝐆𝐄𝐓𝐎-𝐁𝐎𝐓 😈 Inc*`;
+            text += `🗒️ *Note:* To summon more information about a command, use ${this.client.config.prefix}help <cmd_name>. Example: *${this.client.config.prefix}help info*\n\n*> ©️ OBANAI-BOT.Inc*`;
 
             return void (await M.reply(text));
         }
